@@ -17,4 +17,4 @@ This is what my data exploration looks like -
 
 
 ![newplot](/images/Earnings1.png)
-![newplot (1)](https://github.com/anquabkhan/Fatal_force/blob/main/images/download%20(2).png)
+![newplot (1)](/images/Earnings2.png)
