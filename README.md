@@ -1,7 +1,7 @@
 # Machine learning project to determine peoples earnings based on the national longitudnal survey of youth 1997 
 Project Overview:
 1) Achieved prelimnary data exploration by checking for missing and duplicate values, checking the decriptive statistics and visualizing the features of the dataset
-2) Achieved data cleaning by cleaning duplicate and missing values
+2) Achieved data by cleaning duplicate and missing values
 3) Created a regression plot to show the relationship between poverty rate and percentage of people who completed high school
 4) Created chloropleth graphs to do a state-wise analysis of the killings
 5) Created stacked bar graph to do a race-wise analysis according to people killed in different states
