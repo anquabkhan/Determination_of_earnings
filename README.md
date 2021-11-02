@@ -2,10 +2,10 @@
 Project Overview:
 1) Achieved prelimnary data exploration by checking for missing and duplicate values, checking the decriptive statistics and visualizing the features of the dataset
 2) Achieved data by cleaning duplicate and missing values
-3) Created a regression plot to show the relationship between poverty rate and percentage of people who completed high school
-4) Created chloropleth graphs to do a state-wise analysis of the killings
-5) Created stacked bar graph to do a race-wise analysis according to people killed in different states
-6) created pie charts and boxplots to analyze the manner by which different age groups were killed for both male and female
+3) Implemented simple linear regression and Multivariabe regression on the dataset
+4) Evaluated the coefficients of both models
+5) Analyzed and estimated values and regression residuals for both models
+6) Used the models to make predictions
 
 # Code and Resources Used:
 Python version- 3.9
